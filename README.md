@@ -6,7 +6,7 @@ This project implements a **Variational Autoencoder (VAE)** to learn a latent re
 
 
 <p align="center">
-  <img src="figures/vae_architecture.png" alt="VAE architecture" width="60%">
+  <img src="figures/VAE architecture.png" alt="VAE architecture" width="60%">
 </p>
 
 *VAE architecture: Encoder compresses input images to latent space, Decoder reconstructs from latent variables.*
